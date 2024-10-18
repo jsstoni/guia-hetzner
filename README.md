@@ -120,4 +120,4 @@ Después de configurar Nginx, puedes acceder a tu aplicación desde un navegador
 http://[PUBLIC_IP]
 ```
 
-dejo hasta aquí la guía continuara…
+[Instalar Node.js y configurar la aplicación](Node.md)
